@@ -1,0 +1,38 @@
+```gitignore
+# Java compiled files
+*.class
+
+# Java archives
+*.jar
+*.war
+*.ear
+
+# Build directories
+bin/
+build/
+out/
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# VS Code
+.vscode/
+
+# NetBeans
+nbproject/private/
+build/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+```
