@@ -16,16 +16,15 @@ Each project focuses on applying Java concepts through practical implementations
 | **To-Do List App** | Console-based task manager supporting CRUD operations. | ArrayList, Collections Framework, User Input |
 | **Gaming Tournament** | Algorithm-based solution for generating the maximum entrance code. | Arrays, Collections, Greedy Algorithm |
 | **Smart Elevator System** | Simulation of a multi-elevator system using OOP and the Strategy Design Pattern. | OOP, Strategy Pattern, Polymorphism, Abstraction |
-
+| **Collections Mini Database** | Persistent local data layer executing complete CRUD workflows via custom identifier metrics. | Object Serialization, File I/O, Lists, Equivalence Mapping |
 ---
 
-## Technologies Used
+## 🛠️ Technologies Used
 
-- Java 8+
-- Core Java
+- Java 17+ (utilizing modern syntax patterns)
 - Object-Oriented Programming (OOP)
 - Java Collections Framework
-- Console-Based Applications
+- Java File I/O & Object Serialization (`.ser` data stream)
 
 ---
 
@@ -57,7 +56,7 @@ Core-Java-Mini-Projects/
 ├── ToDoList-App/
 ├── Gaming-Tournament/
 ├── Smart-Elevator-System/
-│
+├── Collections_MiniDataBase/
 ├── README.md
 └── .gitignore
 
