@@ -1,0 +1,21 @@
+# --- Java Compiled Output ---
+bin/
+out/
+target/
+*.class
+
+# --- Database / Runtime Persistence Files ---
+*.ser
+*.log
+
+# --- IntelliJ IDEA ---
+.idea/
+*.iml
+*.iws
+
+# --- Visual Studio Code ---
+.vscode/
+
+# --- Operating System Files ---
+.DS_Store
+Thumbs.db
